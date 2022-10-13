@@ -1,22 +1,21 @@
-## penguin-desktop-themes
+## desktop-themes
 
-Themes, icons, and fonts for the Penguin Desktop
+Source files for `penguin-desktop-themes` [PKGBUILD](https://github.com/penguin-fyi/pkgbuilds/blob/main/penguin-desktop-themes/PKGBUILD)
 
 ### Depends
-* antsy-gtk-theme ***!!***
-* antsy-icon-theme ***!!***
-* mint-gtk-theme ***!!***
-* mint-icon-theme ***!!***
-* nerd-fonts-hack ***!***
-* nightfall-gtk-theme ***!!***
-* nightfall-icon-theme ***!!***
-* plum-gtk-theme ***!!***
-* plum-icon-theme ***!!***
-* system78-gtk-theme ***!!***
-* system78-icon-theme ***!!***
-* ttf-bitstream-vera
+* archlinux-wallpaper 
+* ngui-blue-gtk-theme ***!***
+* ngui-blue-icon-theme ***!***
+* ngui-cyan-gtk-theme ***!***
+* ngui-cyan-icon-theme ***!***
+* ngui-green-gtk-theme ***!***
+* ngui-green-icon-theme ***!***
+* ngui-pink-gtk-theme ***!***
+* ngui-pink-icon-theme ***!***
 * noto-fonts-emoji
+* ttf-bitstream-vera
 * ttf-dejavu
 * ttf-hack
-* ttf-nerd-fonts-symbols
+* ttf-nerd-fonts-symbols-2048-em
 * xcursor-neutral
+* xdecorator ***!***
