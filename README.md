@@ -4,6 +4,16 @@ Source files for `penguin-desktop-themes` [PKGBUILD](https://github.com/penguin-
 
 ### Depends
 * archlinux-wallpaper
+* ngui-pro-gtk-theme
+* ngui-pro-icon-theme
+* noto-fonts-emoji
+* ttf-bitstream-vera
+* ttf-dejavu
+* ttf-hack-nerd
+* ttf-nerd-fonts-symbols-2048-em
+* xcursor-neutral
+
+### Optdepends
 * ngui-blue-gtk-theme
 * ngui-blue-icon-theme
 * ngui-cyan-gtk-theme
@@ -12,10 +22,3 @@ Source files for `penguin-desktop-themes` [PKGBUILD](https://github.com/penguin-
 * ngui-green-icon-theme
 * ngui-pink-gtk-theme
 * ngui-pink-icon-theme
-* noto-fonts-emoji
-* ttf-bitstream-vera
-* ttf-dejavu
-* ttf-hack-nerd
-* ttf-nerd-fonts-symbols-2048-em
-* xcursor-neutral
-* xdecorator
