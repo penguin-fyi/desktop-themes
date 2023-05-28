@@ -11,8 +11,8 @@
 -#font-name=
 +background = #53585B
 +user-background = true
-+theme-name = nGUI-Blue-Dark
-+icon-theme-name = nGUI-Blue
++theme-name = nGUI-Pro
++icon-theme-name = nGUI-Pro
 +font-name = Bitstream Vera Sans Roman 10
  #xft-antialias=
  #xft-dpi=
